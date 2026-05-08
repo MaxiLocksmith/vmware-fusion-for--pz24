@@ -1,4 +1,4 @@
-
+Enhance VMware Fusion for macOS with VMware Fusion for macOS new Plugin: scripting-support & search-enhancement, the #1 plugin. Includes scripting-support and search-enhancement
 
 
 
